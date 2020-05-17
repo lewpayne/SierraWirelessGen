@@ -1,5 +1,5 @@
 # Challenge/Response Generator for Sierra Wireless Cards V1.0
-# Don't blame me for your weaknesses - Lew Payne
+Don't blame me for your weaknesses - Lew Payne
 
 ## Why
 
