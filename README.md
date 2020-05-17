@@ -1,6 +1,5 @@
 # Challenge/Response Generator for Sierra Wireless Cards V1.0
-(c) B. Kerler 2019
-MIT License
+# Don't blame me for your weaknesses - Lew Payne
 
 ## Why
 
